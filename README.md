@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Diego Rivera</h1>
 <h3 align="center">Passionate about leveraging open-source tools for sustainability, education, and innovation in LATAM.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegorb1329" alt="diegorb1329" /></a> </p>
-
 - 🔭 I’m currently working on **GainForest**
+
+Also contributor on:
+
+https://broadlistening.org
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
